@@ -21,7 +21,7 @@
 
 ---
 
-This repository contains the website at <system76.party>.
+This repository contains the website at [system76.party](https://system76.party).
 
 ## Running
 
