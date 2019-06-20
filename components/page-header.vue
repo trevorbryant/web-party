@@ -28,13 +28,14 @@
 </template>
 
 <style scoped>
-img:first-child {
+img {
   display: block;
-  width: 400px;
   margin: 0 auto;
   max-width: 100%;
   padding: 1rem;
+  user-select: none;
   vertical-align: top;
+  width: 400px;
 }
 
 svg {
@@ -42,16 +43,19 @@ svg {
   margin: 0 auto;
   max-width: 100%;
   padding: 1rem;
+  user-select: none;
   width: calc(1536px + 2rem);
 }
 
-.fp,
-.la,
-.or,
-.ct,
-.ky {
-  animation: flashy 5s linear infinite;
-  animation-timing-function: steps(1, end);
+@media (prefers-reduced-motion: no-preference) {
+  .fp,
+  .la,
+  .or,
+  .ct,
+  .ky {
+    animation: flashy 5s linear infinite;
+    animation-timing-function: steps(1, end);
+  }
 }
 
 .fp { animation-delay: 0s; fill: #faa41c; }
