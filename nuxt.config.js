@@ -24,7 +24,7 @@ export default {
     },
 
     link: [
-      { rel: 'icon', sizes: '196x196', href: '/icon.png' },
+      { rel: 'icon', sizes: '196x196', href: '/icon.png' }
     ],
 
     meta: [
