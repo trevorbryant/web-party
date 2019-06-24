@@ -1,4 +1,14 @@
-<!--                                                                                                                                        
+<template>
+  <div class="container">
+    <div>
+      <h2>What the flock…?</h2>
+      <p>
+        Summer's back and hotter than ever! All the more reason to stay indoors
+        and party with your favorite Linux people. Party is BYOP (Bring Your Own
+        Parrots) so send us all your partiest parrots on Twitter! (Facebook
+        posts welcome too.)
+        
+        <!--                                                                                                                                        
                                                                                                                                                       
                                                            `:i+zzzz+*;,`                                                                              
                                                         ,+M############@x+:                                                                           
@@ -76,17 +86,7 @@
                                    ;#################################################################################################*                
                                    ,##################################################################################################                
                                     inxnnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzznxn#.-->                
-                                                                                                                                                                                                                                                                                                          
-                                                                                                                                                      
-<template>
-  <div class="container">
-    <div>
-      <h2>What the flock…?</h2>
-      <p>
-        Summer's back and hotter than ever! All the more reason to stay indoors
-        and party with your favorite Linux people. Party is BYOP (Bring Your Own
-        Parrots) so send us all your partiest parrots on Twitter! (Facebook
-        posts welcome too.)
+  
       </p>
 
       <p>
