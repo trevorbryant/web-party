@@ -7,8 +7,9 @@
         and party with your favorite Linux people. Party is BYOP (Bring Your Own
         Parrots) so send us all your partiest parrots on Twitter! (Facebook
         posts welcome too.)
+      </p>
         
-        <!--                                                                                                                                        
+      <!--                                                                                                                                        
                                                                                                                                                       
                                                            `:i+zzzz+*;,`                                                                              
                                                         ,+M############@x+:                                                                           
@@ -85,9 +86,9 @@
                                    :###zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz@###M`                
                                    ;#################################################################################################*                
                                    ,##################################################################################################                
-                                    inxnnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzznxn#.-->                
+                                    inxnnzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzznxn#.                
+      -->                
   
-      </p>
 
       <p>
         If we get enough, we'll do something <i>extra</i> special! (Wink.)
